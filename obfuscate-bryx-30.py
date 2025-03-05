@@ -1,6 +1,7 @@
-
 #OBFUSCATE BY @BRYX
 #DECODE TEST CHALLENGE
+__Author__ = ("BRYXPOGI")
+__In4__ = ("https://www.facebook.com/profile.php?id=61573908688592")
 class BRYXPOGI(MemoryError):0
 __a__, _0xBRYXxPOGI = ("BRYXPOGI"), [
     ["k","a","b"],["j","i","z"],["h","s","r"],["m","2","l"],
